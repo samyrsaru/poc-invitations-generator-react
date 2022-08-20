@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poc-invitations-generator-react/static/css/main.5731f03e.css",
+    "main.js": "/poc-invitations-generator-react/static/js/main.8e6c7408.js",
+    "static/js/787.555ff1c4.chunk.js": "/poc-invitations-generator-react/static/js/787.555ff1c4.chunk.js",
+    "index.html": "/poc-invitations-generator-react/index.html",
+    "main.5731f03e.css.map": "/poc-invitations-generator-react/static/css/main.5731f03e.css.map",
+    "main.8e6c7408.js.map": "/poc-invitations-generator-react/static/js/main.8e6c7408.js.map",
+    "787.555ff1c4.chunk.js.map": "/poc-invitations-generator-react/static/js/787.555ff1c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5731f03e.css",
+    "static/js/main.8e6c7408.js"
+  ]
+}
