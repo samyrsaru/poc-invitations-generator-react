@@ -21,7 +21,7 @@ Generate invitation
 
 Live demo: https://samyrsaru.github.io/poc-invitations-generator-react/
 <img width="898" alt="image" src="https://user-images.githubusercontent.com/23406175/185757132-0c0965f7-d9b0-4246-8f82-30bedbbe2856.png">
-
+<img width="869" alt="image" src="https://user-images.githubusercontent.com/23406175/185757181-f4256735-9f3d-49ab-ab90-0397f8b08a23.png">
 
 # Getting Started with Create React App
 
