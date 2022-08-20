@@ -20,6 +20,8 @@ Generate invitation
 - stringify ( to prove object structure )
 
 Live demo: https://samyrsaru.github.io/poc-invitations-generator-react/
+<img width="898" alt="image" src="https://user-images.githubusercontent.com/23406175/185757132-0c0965f7-d9b0-4246-8f82-30bedbbe2856.png">
+
 
 # Getting Started with Create React App
 
