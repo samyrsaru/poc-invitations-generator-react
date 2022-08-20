@@ -19,6 +19,8 @@ Generate invitation
 - beautifull design
 - stringify ( to prove object structure )
 
+Live demo: https://samyrsaru.github.io/poc-invitations-generator-react/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
