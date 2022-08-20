@@ -1,3 +1,24 @@
+# Description
+## Request
+> Please make a simple UI to edit a “complex object” – one with complex properties as an example:
+> - Points – similar to coordinates on a map
+> - Color Picker
+> - Date/Time Picker
+
+## Proposal
+Awesome event invitation generator:
+
+Dress color code:
+- choose from a few options
+- have option to choose from Color Picker
+
+When?
+- show date time picker
+
+Generate invitation
+- beautifull design
+- stringify ( to prove object structure )
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
